@@ -1,0 +1,11 @@
+C:\Users\Xakar\source\repos\airline_tickets\airline_tickets\bin\Debug\airline_tickets.exe.config
+C:\Users\Xakar\source\repos\airline_tickets\airline_tickets\bin\Debug\airline_tickets.exe
+C:\Users\Xakar\source\repos\airline_tickets\airline_tickets\bin\Debug\airline_tickets.pdb
+C:\Users\Xakar\source\repos\airline_tickets\airline_tickets\obj\Debug\airline_tickets.csproj.AssemblyReference.cache
+C:\Users\Xakar\source\repos\airline_tickets\airline_tickets\obj\Debug\airline_tickets.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xakar\source\repos\airline_tickets\airline_tickets\obj\Debug\airline_tickets.Form1.resources
+C:\Users\Xakar\source\repos\airline_tickets\airline_tickets\obj\Debug\airline_tickets.Properties.Resources.resources
+C:\Users\Xakar\source\repos\airline_tickets\airline_tickets\obj\Debug\airline_tickets.csproj.GenerateResource.cache
+C:\Users\Xakar\source\repos\airline_tickets\airline_tickets\obj\Debug\airline_tickets.csproj.CoreCompileInputs.cache
+C:\Users\Xakar\source\repos\airline_tickets\airline_tickets\obj\Debug\airline_tickets.exe
+C:\Users\Xakar\source\repos\airline_tickets\airline_tickets\obj\Debug\airline_tickets.pdb
